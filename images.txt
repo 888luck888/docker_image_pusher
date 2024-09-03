@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 elasticsearch:8.15.0
 zlmediakit/zlmediakit:master
+registry.gitlab.cn/omnibus/gitlab-jh:latest
