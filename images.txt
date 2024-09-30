@@ -8,3 +8,5 @@ elasticsearch:8.15.0
 zlmediakit/zlmediakit:master
 registry.gitlab.cn/omnibus/gitlab-jh:latest
 mysql:8.0.39
+redis:7.4.0
+openjdk:17
