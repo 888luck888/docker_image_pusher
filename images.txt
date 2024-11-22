@@ -10,4 +10,5 @@
 #mysql:8.0.39
 #redis:7.4.0
 #openjdk:17
-gethue/hue:20241115-140101
+#gethue/hue:20241115-140101
+rabbitmq:4.0.3
